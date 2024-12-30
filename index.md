@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to yyx_lynx's blog
 ---
-
+# Hello!
+---
